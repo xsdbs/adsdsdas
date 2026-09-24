@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\skCrypter.obj",
+            "outputs": [
+                "Release\\skCrypter.h.obj.dt.module.json",
+                "Release\\skCrypter.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
